@@ -1,4 +1,4 @@
-// script file
+// script file for website
 let theme = localStorage.getItem('theme')
 
 if(theme == null){
