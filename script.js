@@ -1,5 +1,4 @@
-// script for theme
-// this is a comment
+
 let theme = localStorage.getItem('theme')
 
 if(theme == null){
